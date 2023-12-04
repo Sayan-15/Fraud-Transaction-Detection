@@ -16,6 +16,14 @@ The intersection of data mining and machine learning plays a pivotal role in ant
 * Seaborn
 * SkLearn
 
+### Process
+
+* Data Extraction
+* Basic Data Cleaning
+* Exploratory Data Analysis
+* Data Cleaning
+* ML Model Implementation
+
 ### Dataset
 https://www.kaggle.com/datasets/amanindiamuz/financial-dataset-for-fraud-detection-in-a-comapny
 
